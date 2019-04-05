@@ -2,9 +2,10 @@ class Artist
   attr_reader :name 
   attr_accessor :artist, :title
   
-  def initialize
-    
-    
+  def initialize(artist, title)
+    @artist = artist
+    @title = title
+  
   end
   
   

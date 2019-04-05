@@ -1,4 +1,5 @@
-class Artist(name)
+class Artist
+  
   
   
 end
